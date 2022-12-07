@@ -1,3 +1,3 @@
 ﻿# Responsive-Movie-App
 
-#screen shot
+# screen shot
